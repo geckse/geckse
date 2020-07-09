@@ -3,7 +3,7 @@
 **I build Apps and Websites.** And other stuff.
 
 ## Few things i built 🤓
-![SpotShot Logo](https://github.com/geckse/geckse/images/spotshot-app-icon.png) | ![Hypoport_Conference_app Logo](https://github.com/geckse/geckse/images/hypoport-conference-attendee-app-icon.png)  | ![Wunderpantry Logo](https://github.com/geckse/geckse/images/wunderpantry-app-icon.png)
+![SpotShot Logo](https://github.com/geckse/geckse/blob/master/images/spotshot-app-icon.png) | ![Hypoport_Conference_app Logo](https://github.com/geckse/geckse/blob/master/images/hypoport-conference-attendee-app-icon.png)  | ![Wunderpantry Logo](https://github.com/geckse/geckse/blob/master/images/wunderpantry-app-icon.png)
 ------------ | ------------- | -------------
 **SpotShot** | **Hypoport Conference App** | **Wunderpantry**
 Challenge Social Media App | Conference Attendee App | *\*secret\**
