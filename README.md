@@ -1,23 +1,28 @@
-### Hi! I'm geckse 👋
+# Hi! I'm geckse 👋
 
-**I build Apps and Websites.**
+**I build Apps and Websites.** And other stuff.
 
-<!--
-**geckse/geckse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Few things i built 🤓
+![SpotShot Logo](https://github.com/geckse/geckse/blob/master/images/spotshot-app-icon.png) | ![Hypoport_Conference_app Logo](https://github.com/geckse/geckse/blob/master/images/hypoport-conference-attendee-app-icon.png)  | ![Wunderpantry Logo](https://github.com/geckse/geckse/blob/master/images/wunderpantry-app-icon.png)
+------------ | ------------- | -------------
+**SpotShot** | **Hypoport Conference App** | **Wunderpantry**
+Challenge Social Media App | Conference Attendee App | *\*secret\**
+[Website](https://spotshot.io) | [Repo](https://github.com/hypoport/hp-conference-app) | 
 
-Here are some ideas to get you started:
+## I ❤️ [@ionic-framework](https://github.com/ionic-team/ionic-framework)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm also a...
+* ... 🗜️ **3D-Printing enthusiast**.
+* ... 🌱 **hydroponic-farmer** *(small scale, but iot-automatized)*. (Check thoose repos: [App](https://github.com/geckse/hydroponic-iot-app), [Microcontroller](https://github.com/geckse/hydroponic-iot-esp-32-controller), [Backend](https://github.com/geckse/hydroponic-iot-backend))
+* ... 💩 **shitty electronics + iot Content-Producer** [@internet-of-shit](https://github.com/internet-of-shit).
 
+## Social Media (*privat-ish*)
 
-#### Social Media
+🤳 [Instagram](https://www.instagram.com/geck.se/)
+🐦 [Twitter](https://twitter.com/geckse)
+👔 [LinkedIn](https://www.linkedin.com/in/geckse/)
 
-🤳 ig: https://www.instagram.com/geck.se/
+## Or check my more stupid iot / electronics / tech - stuff [@internet-of-shit](https://github.com/internet-of-shit)
+
+🤳 [Instagram](https://www.instagram.com/internetofsh.t/)
+😽 [GitHub](https://github.com/internet-of-shit).
