@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm geckse 👋
+
+**I build Apps and Websites.**
 
 <!--
 **geckse/geckse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### Social Media
+
+🤳 ig: https://www.instagram.com/geck.se/
