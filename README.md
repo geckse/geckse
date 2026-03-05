@@ -1,28 +1,39 @@
-# Hi! I'm geckse 👋
+### Hey, I'm geckse 👋
 
-**I build Apps and Websites.** And other stuff.
+Developer since I was 12. Based in Berlin.  
+Surviving the post-AI-coding era — just kidding, I actually feel super enabled.
 
-## Few things i built 🤓
-![SpotShot Logo](https://github.com/geckse/geckse/blob/master/images/spotshot-app-icon.png) | ![Hypoport_Conference_app Logo](https://github.com/geckse/geckse/blob/master/images/hypoport-conference-attendee-app-icon.png)  | ![Wunderpantry Logo](https://github.com/geckse/geckse/blob/master/images/wunderpantry-app-icon.png)
------------- | ------------- | -------------
-**SpotShot** | **Hypoport Conference App** | **Wunderpantry**
-Challenge Social Media App | Conference Attendee App | *\*secret\**
-[Website](https://spotshot.io) | [Repo](https://github.com/hypoport/hp-conference-app) | 
+My focus right now: **Automation · AI · Open Source essentials**
 
-## I ❤️ [@ionic-framework](https://github.com/ionic-team/ionic-framework)
+---
 
-## I'm also a...
-* ... 🗜️ **3D-Printing enthusiast**.
-* ... 🌱 **hydroponic-farmer** *(small scale, but iot-automatized)*. (Check thoose repos: [App](https://github.com/geckse/hydroponic-iot-app), [Microcontroller](https://github.com/geckse/hydroponic-iot-esp-32-controller), [Backend](https://github.com/geckse/hydroponic-iot-backend))
-* ... 💩 **shitty electronics + iot Content-Producer** [@internet-of-shit](https://github.com/internet-of-shit).
+🚀 **Main thing I'm building:**  
+[mdvdb](https://github.com/geckse/mdvdb) — a filesystem-native vector database for Markdown files.  
+Zero infra. Hybrid search. Built for AI agents, RAG pipelines & agent memory. Everything lives on disk.
 
-## Social Media (*privat-ish*)
+---
 
-🤳 [Instagram](https://www.instagram.com/geck.se/)
-🐦 [Twitter](https://twitter.com/geckse)
-👔 [LinkedIn](https://www.linkedin.com/in/geckse/)
+🏢 **SaaS & Startups:**
+- [kontoflux.io](https://kontoflux.io) — Bank Account Automation Platform. REST API, Webhooks & MCP Server for any German bank account
+- [pdf-mcp.io](https://pdf-mcp.io) — PDF MCP Server
+- [wearebold.io](https://wearebold.io) — Challenge Social Media & Tracking Platform
 
-## Or check my more stupid iot / electronics / tech - stuff [@internet-of-shit](https://github.com/internet-of-shit)
+---
 
-🤳 [Instagram](https://www.instagram.com/internetofsh.t/)
-😽 [GitHub](https://github.com/internet-of-shit).
+🤖 **n8n AI skills** [`n8n-skills`](https://github.com/geckse/n8n-skills):
+- `n8n-node-builder` — Scaffolds, implements, tests & publishes custom n8n nodes using official best practices
+- `n8n-workflow-sdk` — Builds, tests & manages n8n workflows programmatically via the `@n8n/workflow-sdk`
+
+---
+
+🔧 **n8n community nodes** (filling gaps nobody else did):
+- [`n8n-nodes-ninox`](https://github.com/geckse/n8n-nodes-ninox) — Ninox DB integration
+- [`n8n-nodes-gpt-tokenizer`](https://github.com/geckse/n8n-nodes-gpt-tokenizer) — GPT token counting
+- [`n8n-nodes-exif-data`](https://github.com/geckse/n8n-nodes-exif-data) — EXIF/IPTC/XMP image metadata
+- [`n8n-nodes-einvoice`](https://github.com/geckse/n8n-nodes-einvoice) — ZUGFeRD / XRechnung e-invoice parsing
+- [`n8n-nodes-text-extract`](https://github.com/geckse/n8n-nodes-text-extract) — Regex text extraction
+
+---
+
+💚 **[Sponsor me on GitHub](https://github.com/sponsors/geckse)** if my open source stuff saves you time.
+Highly appreciated!
