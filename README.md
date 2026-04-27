@@ -7,7 +7,9 @@ My focus right now: **Automation · AI · Maybe some more AI Open Source essenti
 ---
 
 🚀 **Current hot thing**  
-[📚 mdvdb](https://github.com/geckse/mdvdb) — a filesystem-native vector database for Markdown files.  
+[🛠️ n8n-desk](https://github.com/geckse/n8n-desk) — n8n harnessed Desktop Agent, that brings n8n to your local Machine with similar modes as Claude Desktop: Chat, Cowork and Workflow. 
+[🧊 tesseract.md](https://github.com/geckse/tesseract-md-appk) — Local Knowledgebase LLM-Wiki with Markdownfiles, fast CLI with mdvdb, feature rich 3D-Representation and notion-like Editor for your Markdown-based Wikis.
+[📚 mdvdb](https://github.com/geckse/markdown-vdb) — a filesystem-native vector database for Markdown files.  
 Zero infra. Hybrid search. Built for AI agents, RAG pipelines & agent memory. Everything lives on disk.
 
 ---
